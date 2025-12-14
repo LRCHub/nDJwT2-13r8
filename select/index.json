@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アンチコンフィチュール",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-14T14:53:00.128431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンチコンフィチュール",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_アンチコンフィチュール_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンチコンフィチュール",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_アンチコンフィチュール_≠ME.txt"
+    }
+  ]
+}
